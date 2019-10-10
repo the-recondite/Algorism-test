@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Algorism Properties</string>
+    <string name="create_prop">Create Property</string>
+    <string name="property_name_hint">Property Name</string>
+    <string name="property_address_hint">Property Address</string>
+    <string name="property_price_string">Property Price ($)</string>
+    <string name="bed_count_hint">Bed Count</string>
+    <string name="bath_count_hint">Bath Count</string>
+    <string name="parking_count">Parking Count</string>
+    <string name="year_built_hint">Year Built</string>
+    <string name="property_description_hint">Property Description</string>
+    <string name="upload_button_label">Choose Picture</string>
+    <string name="create_property_button">Create Property</string>
+    <string name="edit_prop">Edit Property</string>
+    <string name="update_button">Update Property</string>
+</resources>
